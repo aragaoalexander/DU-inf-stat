@@ -76,7 +76,7 @@ ames %>%
 1.  Which of the following is **false**?
 <ol>
 <li> The distribution of areas of houses in Ames is unimodal and right-skewed. </li>
-<li> *50\% of houses in Ames are smaller than 1,499.69 square feet.* </li>
+<li> **50\% of houses in Ames are smaller than 1,499.69 square feet.** </li>
 <li> The middle 50\% of the houses range between approximately 1,126 square feet and 1,742.7 square feet. </li>
 <li> The IQR is approximately 616.7 square feet. </li>
 <li> The smallest house is 334 square feet and the largest is 5,642 square feet. </li>
@@ -139,7 +139,7 @@ population.
 <ol>
 <li> Sample size of 50. </li>
 <li> Sample size of 100. </li>
-<li> [X] Sample size of 1000. </li>
+<li> **[X] Sample size of 1000.** </li>
 </ol>
 
 Let's take one more sample of size 50, and view the mean area in this sample:
@@ -468,7 +468,7 @@ sample_means150_2000 %>%
 
 6. Which of the following is false? 
 <ol>
-<li> *The variability of the sampling distribution with the smaller sample size (`sample_means15`) is smaller than the variability of the sampling distribution with the larger sample size (`sample_means150`).* </li>
+<li> **The variability of the sampling distribution with the smaller sample size (`sample_means15`) is smaller than the variability of the sampling distribution with the larger sample size (`sample_means150`).** </li>
 <li> The means for the two sampling distributions are roughly similar. </li> 
 <li> Both sampling distributions are symmetric. </li>
 </ol>
