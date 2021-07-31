@@ -1,4 +1,4 @@
-## Script for the suggested exercises in Week 1 of Duke University's 
+## Script for the suggested exercises in Week 2 of Duke University's 
 ## Inferential Statistics course on Coursera.
 ## Exercises are taken from Open Intro Statistics, 3rd ed.
 ## Author: Alexander Aragão
