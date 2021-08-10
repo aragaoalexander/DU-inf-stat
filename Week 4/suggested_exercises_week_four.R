@@ -209,7 +209,7 @@ se
 z = (p1-p2)/se
 z
 
-pvalue = pnorm(z)
+pvalue = pnorm(z)*2
 pvalue
 
 # 6.31 Offshore drilling, Part II
