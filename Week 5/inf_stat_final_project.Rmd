@@ -1,0 +1,57 @@
+---
+title: "Statistical inference with the GSS data"
+author: Alexander Aragão
+output: 
+  html_document: 
+    fig_height: 4
+    highlight: pygments
+    theme: spacelab
+---
+
+## Setup
+
+### Load packages
+
+```{r load-packages, message = FALSE}
+library(ggplot2)
+library(dplyr)
+library(statsr)
+```
+
+### Load data
+
+```{r load-data}
+load("gss.Rdata")
+```
+
+* * *
+
+## Part 1: Data
+
+The data used for this project comes from the General Social Survey (GSS), which consists in a nationally representative survey of adults residing in the United States. According to the GSS website, the survey happens almost annually and aims to assess a variety of "demographic, behavioural and attitudinal questions! regarding the American adult population.
+
+Regarding the extract from the data used in this project, it is a slice of selected indicators from 1972 to 2012, sampled from the original GSS dataset.
+
+The original dataset is the result of an observational study. The data was collected through face-to-face interviews done with a single member of a American household - including Spanish-speaking households from 2006 and on. The sampling method used was multistage stratified sampling, to ensure significant representation of the population. Consequently, we can consider that this study can be generalized to the entire population, since it employed random sampling, but no causality can be inferred, since it isn't a experiment and, as such, no random assignment was applied.
+
+* * *
+
+## Part 2: Research question
+
+
+
+* * *
+
+## Part 3: Exploratory data analysis
+
+NOTE: Insert code chunks as needed by clicking on the "Insert a new code chunk" 
+button (green button with orange arrow) above. Make sure that your code is visible
+in the project you submit. Delete this note when before you submit your work.
+
+* * *
+
+## Part 4: Inference
+
+NOTE: Insert code chunks as needed by clicking on the "Insert a new code chunk" 
+button (green button with orange arrow) above. Make sure that your code is visible
+in the project you submit. Delete this note when before you submit your work.
